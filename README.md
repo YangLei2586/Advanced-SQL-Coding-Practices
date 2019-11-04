@@ -1,5 +1,4 @@
 # Advanced-SQL-Coding-Practices
-advanced SQL coding practices
 
 001 Triggers are special stored procedure that executed automatically in response to database objects or events. There are 3 types of SQL Server triggers:
 1) DML triggers: data manipulation language triggers such as insert, update and delete
